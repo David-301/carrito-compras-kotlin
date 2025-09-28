@@ -1,0 +1,21 @@
+# Archivos compilados
+*.class
+*.jar
+
+# Archivos de log
+*.log
+carrito.log
+
+# Archivos del IDE
+.idea/
+*.iml
+*.iws
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de build
+build/
+out/
+target/
